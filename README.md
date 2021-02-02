@@ -1,6 +1,6 @@
 # Docker-Setup-Script
 
-A Bash script that installs Docker automatically. Tested on Kali Linux 2020.4 64-Bit.
+This Bash script installs Docker automatically. Tested on Kali Linux 2020.4 64-Bit.
 
 ## Usage
 
